@@ -1,0 +1,7 @@
+colorama==0.4.5
+init==0.1.0
+PyYAML==6.0
+terminal==0.4.0
+colored==1.4.3
+Amino_fix==2.3.4.8
+flask==2.1.2
